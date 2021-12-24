@@ -336,7 +336,7 @@ namespace Sdmsols.XTB.BusinessRulesScriptViewer
         public string DonationDescription => "Auto Number Updater";
         public string EmailAccount => "mayank.pujara@gmail.com";
 
-        public string HelpUrl => "https://mayankp.wordpress.com/2021/12/09/xrmtoolbox-BusinessRulesScriptViewer-new-tool/";
+        public string HelpUrl => "https://mayankp.wordpress.com/2021/12/24/xrmtoolbox-new-tool-businessrulesscriptviewer/";
 
 
         #endregion

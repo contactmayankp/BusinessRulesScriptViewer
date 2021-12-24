@@ -142,7 +142,7 @@ namespace Sdmsols.XTB.BusinessRulesScriptViewer
             this.rtBRScript.Location = new System.Drawing.Point(672, 240);
             this.rtBRScript.Name = "rtBRScript";
             this.rtBRScript.ReadOnly = true;
-            this.rtBRScript.Size = new System.Drawing.Size(1379, 1076);
+            this.rtBRScript.Size = new System.Drawing.Size(1352, 1076);
             this.rtBRScript.TabIndex = 41;
             this.rtBRScript.Text = "";
             // 
