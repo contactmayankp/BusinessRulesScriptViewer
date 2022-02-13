@@ -87,7 +87,7 @@ namespace Sdmsols.XTB.BusinessRulesScriptViewer
         private void BusinessRulesScriptViewer_ConnectionUpdated(object sender, ConnectionUpdatedEventArgs e)
         {
             var orgver = new Version(e.ConnectionDetail.OrganizationVersion);
-            var orgok = orgver >= new Version(9, 0);
+            var orgok = orgver >= new Version(6, 0);
 
             if (orgok)
             {
